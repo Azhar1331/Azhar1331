@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azhar1331
 - 👀 I’m interested in Opem Source Projects
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently Learning ML
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me _azhar_mohammed_(ig)
 - 😄 Pronouns: he/him
